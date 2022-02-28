@@ -16,4 +16,7 @@
 
 ### 단축기(macOS)
 - Cmd + Shift + Enter : 문자 자동 완성
-- Shift + F6
+- Shift + F6 : 변수 이름 변경
+- Cmd + Option + v : 변수 추출하기
+- Cmd + Shift + T : 해당 클래스에 대한 테스트 케이스 생성
+- control + enter : Code/Generate
