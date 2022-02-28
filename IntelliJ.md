@@ -12,3 +12,8 @@
         - Run tests using: Gradle IntelliJ IDEA
 
 ![참고](./reference/buildTool.png)
+
+
+### 단축기(macOS)
+- Cmd + Shift + Enter : 문자 자동 완성
+- Shift + F6
